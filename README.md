@@ -20,4 +20,4 @@ In this code along, we'll be working on a branch `responsive-design`.
 As always, make sure to add, commit and push any work you've done on a personal
 repository!
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/adding-responsive-features' title='Responsive Features Code-Along'>Responsive Features Code-Along</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Responsive Features Code-Along</p>
